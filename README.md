@@ -1,2 +1,2 @@
-# gists
+# gits
 4fad824a9ea9cb01bae67f99cf64e664
